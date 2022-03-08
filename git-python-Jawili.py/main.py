@@ -1,3 +1,6 @@
 print("Darea Anne M. Jawili")
 print("025 St. Quezon St. Gitnang Bayan, Mogpog, Marinduque")
 print("September 28, 2000")
+print("Marinduque State College")
+print("BS Information Technology")
+print("2nd year")
